@@ -16,7 +16,7 @@ const rightMenu = [
 
 export default function PopularMenu() {
   return (
-    <section className="w-full flex flex-col items-center mt-30 gap-12">
+    <section id="menu" className="w-full flex flex-col items-center mt-30 gap-12">
       
       <div className="flex items-center gap-6">
         <div className="w-12 h-px bg-secondary/40"></div>

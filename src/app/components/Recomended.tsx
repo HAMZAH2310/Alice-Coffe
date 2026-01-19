@@ -30,7 +30,7 @@ export default function Recommended() {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
   return (
-    <section className="w-full flex flex-col items-center mt-40 px-4">
+    <section id="product" className="w-full flex flex-col items-center mt-40 px-4">
       <h1 className="dancing-script text-5xl text-secondary mb-16 tracking-wide">
         Our Best Recommendations
       </h1>

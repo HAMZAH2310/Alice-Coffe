@@ -43,7 +43,7 @@ const imageServices = [
 
 export default function Services() {
   return (
-    <section className="w-full flex flex-col items-center mt-40">
+    <section id="services" className="w-full flex flex-col items-center mt-40">
       <h1 className="dancing-script text-4xl text-secondary mb-10">
         Services
       </h1>
