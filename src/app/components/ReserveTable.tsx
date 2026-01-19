@@ -49,7 +49,7 @@ export default function ReserveTable() {
 
         <div className="w-1/2 mt-20 flex items-center justify-center">
           <Image
-            src="/Images/Reserve img.png"
+            src="/Images/Reserve Img.png"
             alt="Reserve Table"
             width={329}
             height={372}
